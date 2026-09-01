@@ -461,29 +461,6 @@ git push origin main
 ## 📄 License
 
 MIT — Free to use, modify, and distribute.
-
----
-
-## 💡 Frequently Asked Questions
-
-**Q: Can I use this skill without intent approval?**  
-A: Not recommended. The `intent.md` approval is the first **human gate** — it prevents rework.
-
-**Q: Does the skill work with languages other than TypeScript?**  
-A: Yes! But templates and examples focus on TypeScript. We adapt as needed.
-
-**Q: How do I integrate with CI/CD?**  
-A: Phase 4 (Test) runs locally. Add a GitHub Action that calls the same scripts (`npm test`, `npm build`).
-
-**Q: Can I start mid-loop (Phase 3 or 4)?**  
-A: Yes, see the "Starting mid-loop" section in [SKILL.md](./SKILL.md#6-starting-mid-loop).
-
----
-
-## 📞 Support
-
-- **Issue:** Open an issue in the repository
-- **Discussion:** Use Discussions for questions
 - **Chat:** Copilot Chat in VS Code (`Ctrl+Shift+I`)
 
 ---
